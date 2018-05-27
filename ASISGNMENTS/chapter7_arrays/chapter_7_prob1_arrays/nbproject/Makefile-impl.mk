@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=CPP_Template_1
+PROJECTNAME=chapter_7_prob1_arrays
 
 # Active Configuration
 DEFAULTCONF=Debug

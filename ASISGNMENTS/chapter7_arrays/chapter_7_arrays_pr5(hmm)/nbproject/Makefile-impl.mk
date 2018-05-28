@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=chapter_7_arrays_pr5
+PROJECTNAME=chapter_7_arrays_pr5(hmm)
 
 # Active Configuration
 DEFAULTCONF=Debug

@@ -20,7 +20,7 @@ using namespace std;
 //Execution Begins Here
 void selectionSort(int[],int);
 void swap(int &, int &);
-int linearSort(const int[], int, int);
+int linearSor(const int[], int, int);
 int main(int argc, char** argv) {
     int results;
     int number;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 
     
     
-    results = linearSort(arr,SIZE,number);
+    results = linearSor(arr,SIZE,number);
     
     if(results == -1)
         cout<<"No match was found! "<<endl;
@@ -87,7 +87,7 @@ void swap(int &a, int &b)
 
 
 ///////////
-int linearSort(const int arr[], int size, int number)
+int linearSor(const int arr[], int size, int number)
 {
     int index = 0;
     int position = -1;

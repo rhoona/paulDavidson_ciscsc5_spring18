@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Project_2_with_flowcharts
+PROJECTNAME=(unknown assignment) with flowcharts
 
 # Active Configuration
 DEFAULTCONF=Debug

@@ -17,12 +17,12 @@ using namespace std;
 //                   2-D Array Dimensions
 
 int binarySearch(const int[], int, int);
-const int SIZE = 10;
 int main(int argc, char** argv) {
+    const int SIZE = 10;
     int numbers[SIZE]={13579,26791,26792,33445,55555,62483, 77777,79422,85647,93121};
     int numb;
     int results;
-    
+
     
     cout<<"This is a binary search to see if you got the winning lotto numbers!\n";
     cout<<"Enter your numbers to see if you win!\t";

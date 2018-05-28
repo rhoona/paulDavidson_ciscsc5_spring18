@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=project_2_with_flowcharts
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/project_2_with_flowcharts
+CND_ARTIFACT_NAME_Debug=_unknown_assignment__with_flowcharts
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/_unknown_assignment__with_flowcharts
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=project2withflowcharts.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/project2withflowcharts.tar
+CND_PACKAGE_NAME_Debug=(unknownassignment)withflowcharts.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/(unknownassignment)withflowcharts.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=project_2_with_flowcharts
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/project_2_with_flowcharts
+CND_ARTIFACT_NAME_Release=_unknown_assignment__with_flowcharts
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/_unknown_assignment__with_flowcharts
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=project2withflowcharts.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/project2withflowcharts.tar
+CND_PACKAGE_NAME_Release=(unknownassignment)withflowcharts.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/(unknownassignment)withflowcharts.tar
 #
 # include compiler specific variables
 #

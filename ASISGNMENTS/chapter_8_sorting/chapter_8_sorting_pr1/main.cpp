@@ -7,7 +7,6 @@
 
 //System Libraries
 #include <iostream>
-int linearSort(const int[], int, int);
 using namespace std;
 
 //User Libraries

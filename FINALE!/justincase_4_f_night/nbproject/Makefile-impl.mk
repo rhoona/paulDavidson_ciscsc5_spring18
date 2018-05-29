@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=chapter_7&8_menu_complete
+PROJECTNAME=justincase_4_f_night
 
 # Active Configuration
 DEFAULTCONF=Debug

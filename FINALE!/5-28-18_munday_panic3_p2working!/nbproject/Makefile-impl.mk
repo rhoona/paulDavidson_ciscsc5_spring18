@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=chapter_7&8_menu_complete
+PROJECTNAME=5-28-18_munday_panic3_p2working!
 
 # Active Configuration
 DEFAULTCONF=Debug

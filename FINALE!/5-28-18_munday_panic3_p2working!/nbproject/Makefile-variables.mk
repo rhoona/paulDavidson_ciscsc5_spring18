@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=chapter_7_8_menu_complete
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/chapter_7_8_menu_complete
+CND_ARTIFACT_NAME_Debug=5-28-18_munday_panic3_p2working_
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/5-28-18_munday_panic3_p2working_
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=chapter7&8menucomplete.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/chapter7&8menucomplete.tar
+CND_PACKAGE_NAME_Debug=5-28-18mundaypanic3p2working!.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/5-28-18mundaypanic3p2working!.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=chapter_7_8_menu_complete
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/chapter_7_8_menu_complete
+CND_ARTIFACT_NAME_Release=5-28-18_munday_panic3_p2working_
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/5-28-18_munday_panic3_p2working_
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=chapter7&8menucomplete.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/chapter7&8menucomplete.tar
+CND_PACKAGE_NAME_Release=5-28-18mundaypanic3p2working!.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/5-28-18mundaypanic3p2working!.tar
 #
 # include compiler specific variables
 #

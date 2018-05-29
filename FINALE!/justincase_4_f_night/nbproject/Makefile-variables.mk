@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=real_game
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/real_game
+CND_ARTIFACT_NAME_Debug=justincase_4_f_night
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/justincase_4_f_night
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=realgame.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/realgame.tar
+CND_PACKAGE_NAME_Debug=justincase4fnight.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/justincase4fnight.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=real_game
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/real_game
+CND_ARTIFACT_NAME_Release=justincase_4_f_night
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/justincase_4_f_night
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=realgame.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/realgame.tar
+CND_PACKAGE_NAME_Release=justincase4fnight.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/justincase4fnight.tar
 #
 # include compiler specific variables
 #

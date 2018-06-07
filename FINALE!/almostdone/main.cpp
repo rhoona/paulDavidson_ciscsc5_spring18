@@ -1,8 +1,8 @@
 /* 
  * File:   main.cpp
- * Author: Dr Mark E. Lehr
- * Created on February 13, 2018, 1:20 PM
- * Purpose:  Create a CSC/CIS 5 Template
+ * Author: Paul Davidson
+ * Completely finished  on 6/7/18 1:47 pm! :D
+ * Purpose:  to be an awsome learning game and to get good grades!
  */
 
 //System Libraries
@@ -10,6 +10,8 @@
 #include <string> //added
 #include <cstdlib>
 #include <ctime>
+#include <cmath>
+#include <iomanip> //for precision
 using namespace std;
 
 //User Libraries
@@ -39,7 +41,7 @@ int main(int argc, char** argv) {
     //seed srand ("ONCE AT THE TOP")
     srand(static_cast<unsigned int>(time(0)));
     //test to figure out what im going to to do for swapping yoki value
-    int SIZE =24;
+    const int SIZE =24;
     int testing;
     int pozVal[SIZE] = {2,1,1,0,1,1,0,2,2,0,2,2,0,3,
                                 3,0,3,3,0,4,4,0,5,5};
@@ -140,7 +142,7 @@ int main(int argc, char** argv) {
     //displays p1 position,money,# of yoki and # of jail cards
     cout<<"Your position is "<<p1Poz<<"\t"<<
     "Money "<<p1Money<<"\t\t"<<
-    "Your Yoki "<<p1Yoki<<"\tYour Jail cards ["<<p1Jfc<<"/2]\n";
+    "Your Yoki "<<p1Yoki<<"\tYour Jail cards ["<<p1Jfc<<"/2]\n"<<"You are " <<fixed<<showpoint<<setprecision(1)<<((static_cast<float>(p1Yoki)/9)*100)<<"% to victory!"<<endl;
   /*
   * 
   * 
@@ -230,7 +232,7 @@ int main(int argc, char** argv) {
     //p2 position/p2money/p2 # of Yoki and # of jail cards
     cout<<"p2[computer] position is "<<p2Poz<<
     "\tp2[computer] Money is "<<p2Money<<"\t\tP2 has "<<p2Yoki<<" Yoki! "<<
-    " p2 Jail cards ["<<p2Jfc<<"/2]\n";
+    " p2 Jail cards ["<<p2Jfc<<"/2]\n"<<"P2[COMPUTER] is "<<fixed<<showpoint<<setprecision(1)<<((static_cast<float>(p2Yoki)/9)*100)<<"% to victory!"<<endl;
     //at the end of p2 turn, p2 turn becomes false (off) and p2 turn becomes
     //true (on)
     p2Turn = false;
@@ -249,7 +251,7 @@ int main(int argc, char** argv) {
     p1Skip--;
     }
     //end of do while loop till soeone has 5 yoki (winner)
-    }while(p1Yoki < 10 && p2Yoki < 10);
+    }while(p1Yoki < 9 && p2Yoki < 9);
     return 0;
 /*
  *

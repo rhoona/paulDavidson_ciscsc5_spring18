@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=omg__save_mychages
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/omg__save_mychages
+CND_ARTIFACT_NAME_Debug=last_version
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/last_version
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=omgsavemychages.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/omgsavemychages.tar
+CND_PACKAGE_NAME_Debug=lastversion.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/lastversion.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=omg__save_mychages
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/omg__save_mychages
+CND_ARTIFACT_NAME_Release=last_version
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/last_version
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=omgsavemychages.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/omgsavemychages.tar
+CND_PACKAGE_NAME_Release=lastversion.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/lastversion.tar
 #
 # include compiler specific variables
 #
